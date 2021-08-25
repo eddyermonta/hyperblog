@@ -6,13 +6,7 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 
 master 1
 
-<<<<<<< HEAD
 master 2
-=======
-experimento 1
->>>>>>> 16ded70 (experimento)
-
-experimento 2
 
 experimento 1
 
