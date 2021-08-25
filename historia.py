@@ -12,4 +12,6 @@ master 2
 experimento 1
 >>>>>>> 16ded70 (experimento)
 
+experimento 2
+
 Mañana nos enfocaremos en su vida laboral"""
